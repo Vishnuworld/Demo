@@ -3,7 +3,7 @@
 my_list=[10,20,30,10,[10,56,89,75,10,56,10],56,10,89,48]
 x=1
 
-print('Hey how are you???')
+print('Hey good morning???')
 for num in my_list:
     if num==10:
         my_list.remove(num)
